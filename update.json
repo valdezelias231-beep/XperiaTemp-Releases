@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9.0",
+  "versionCode": 10,
+  "versionName": "0.10.0",
   "mandatory": false,
-  "apkUrl": "https://raw.githubusercontent.com/valdezelias231-beep/XperiaTemp-Releases/main/XperiaTemp-v0.9.0.apk",
-  "sha256": "31dd9a73f5c6acc1a6c5efe670a72675e362e8ce98280f0f8c4e025224e38bcb",
+  "apkUrl": "https://raw.githubusercontent.com/valdezelias231-beep/XperiaTemp-Releases/main/XperiaTemp-v0.10.0.apk",
+  "sha256": "526794d6c13d677b0e07bdf3ead2377e4c4eee44119dbcec9950d5b4729f3d04",
   "notes": "Actualizador más cómodo: aviso al abrir, progreso de descarga y reanudación tras dar permiso de instalación."
 }
