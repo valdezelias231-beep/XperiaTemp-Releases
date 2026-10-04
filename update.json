@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
+  "versionCode": 7,
+  "versionName": "0.7.0",
   "mandatory": false,
-  "apkUrl": "",
-  "notes": "Canal de actualizaciones de Xperia Temp inicializado."
+  "apkUrl": "https://raw.githubusercontent.com/valdezelias231-beep/XperiaTemp-Releases/main/XperiaTemp-v0.7.apk",
+  "notes": "Nuevo indicador numérico de temperatura en la barra de estado y mejoras del actualizador."
 }
