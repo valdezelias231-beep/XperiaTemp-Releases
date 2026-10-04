@@ -1,7 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7.0",
+  "versionCode": 8,
+  "versionName": "0.8.0",
   "mandatory": false,
-  "apkUrl": "https://raw.githubusercontent.com/valdezelias231-beep/XperiaTemp-Releases/main/XperiaTemp-v0.7.apk",
-  "notes": "Nuevo indicador numérico de temperatura en la barra de estado y mejoras del actualizador."
+  "apkUrl": "https://raw.githubusercontent.com/valdezelias231-beep/XperiaTemp-Releases/main/XperiaTemp-v0.8.0.apk",
+  "sha256": "b802a834536232eff1aa4cbf2a3718549e6012c996bf21997bf5729ea80c24a5",
+  "notes": "Actualizador más cómodo: aviso al abrir, progreso de descarga y reanudación tras dar permiso de instalación."
 }
