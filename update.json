@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.11.0",
+  "versionCode": 12,
+  "versionName": "0.12.0",
   "mandatory": false,
-  "apkUrl": "https://raw.githubusercontent.com/valdezelias231-beep/XperiaTemp-Releases/main/XperiaTemp-v0.11.0.apk",
-  "sha256": "dbf01fc3fb10621fa75cec42307fadc9cdf5c7f6b05ba5ef7f57e05c8fe2e443",
-  "notes": "Actualizador más cómodo: aviso al abrir, progreso de descarga y reanudación tras dar permiso de instalación."
+  "apkUrl": "https://raw.githubusercontent.com/valdezelias231-beep/XperiaTemp-Releases/main/XperiaTemp-v0.12.0.apk",
+  "sha256": "5aa905fed13af0de5f3008e807851321f2ca847904c54b3dea990163bebacf93",
+  "notes": "Nuevo logo animado en el menú de Temperatura."
 }
