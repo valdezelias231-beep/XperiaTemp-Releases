@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.13.0",
+  "versionCode": 14,
+  "versionName": "0.14.0",
   "mandatory": false,
-  "apkUrl": "https://raw.githubusercontent.com/valdezelias231-beep/XperiaTemp-Releases/main/XperiaTemp-v0.13.0.apk",
-  "sha256": "868ad9d0a9a05731e04f7333453f4e1cc9e527a9843c175b1b7b3bb4ed86f118",
-  "notes": "Nueva interfaz térmica premium e indicador superior refinado."
+  "apkUrl": "https://raw.githubusercontent.com/valdezelias231-beep/XperiaTemp-Releases/main/XperiaTemp-v0.14.0.apk",
+  "sha256": "b925726c5350a9ada1fd1ea3c5ca57c1e4ddbae6a55d396d63114674321387a1",
+  "notes": "Protección térmica inteligente: avisos a 40° y 45°, aviso de carga caliente y normalización a 38°."
 }
